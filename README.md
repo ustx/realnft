@@ -1,1 +1,1 @@
-# realnft
+# Real NFT project repo
